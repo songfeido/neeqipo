@@ -1,0 +1,24 @@
+
+/* for 760 px width screen */
+　@media screen and (max-width:800px){    
+    .reactive{background:#15bc4c!important;} 
+ }  
+　/* for 760 px width screen over*/　
+
+　　/* for 1920 px width screen */
+　@media screen and (min-width:801px){   
+   .reactive{background:#4b48c8!important;}   
+} 
+/* for 1920 px width screen over */
+
+
+/*
+ .reactive{background:#15bc4c!important;}
+ .reactive{background:#4b48c8!important;}
+  */
+
+ .reactive{background:red!important;}
+
+
+
+
